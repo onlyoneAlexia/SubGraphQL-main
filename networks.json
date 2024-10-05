@@ -1,0 +1,8 @@
+{
+  "sepolia": {
+    "GTK": {
+      "address": "0x804383944275A1Fa7B460286b5e1C4dbF1cE3921",
+      "startBlock": 6675874
+    }
+  }
+}
